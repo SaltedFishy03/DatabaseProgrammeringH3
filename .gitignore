@@ -1,0 +1,29 @@
+﻿# Ignore build outputs
+bin/
+obj/
+out/
+
+# Rider and other JetBrains IDEs
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# VS Code directories
+.vscode/
+.vscode/*
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files by Visual Studio
+*.pdb
+*.cache
+*.ilk
+*.log
+*.tlb
