@@ -1,8 +1,10 @@
 ﻿using System;
 using System.Linq;
 using DatabaseProgrammering;
+using DatabaseProgrammering.Models;
+using Microsoft.EntityFrameworkCore.Diagnostics;
 
-using var db = new Model();
+using var db = new BloggingContext();
 
 // Note: This sample requires the database to be created before running.
 Console.WriteLine($"Database path: {db.DbPath}.");
