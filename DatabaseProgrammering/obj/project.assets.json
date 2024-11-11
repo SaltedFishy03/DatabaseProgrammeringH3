@@ -2420,19 +2420,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mah\\.nuget\\packages\\": {}
+    "C:\\Users\\Mathias\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mah\\RiderProjects\\DatabaseProgrammering\\DatabaseProgrammering\\DatabaseProgrammering.csproj",
+      "projectUniqueName": "C:\\Users\\Mathias\\RiderProjects\\DatabaseProgrammeringH3\\DatabaseProgrammering\\DatabaseProgrammering.csproj",
       "projectName": "DatabaseProgrammering",
-      "projectPath": "C:\\Users\\mah\\RiderProjects\\DatabaseProgrammering\\DatabaseProgrammering\\DatabaseProgrammering.csproj",
-      "packagesPath": "C:\\Users\\mah\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mah\\RiderProjects\\DatabaseProgrammering\\DatabaseProgrammering\\obj\\",
+      "projectPath": "C:\\Users\\Mathias\\RiderProjects\\DatabaseProgrammeringH3\\DatabaseProgrammering\\DatabaseProgrammering.csproj",
+      "packagesPath": "C:\\Users\\Mathias\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Mathias\\RiderProjects\\DatabaseProgrammeringH3\\DatabaseProgrammering\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Mathias\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2497,7 +2497,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
