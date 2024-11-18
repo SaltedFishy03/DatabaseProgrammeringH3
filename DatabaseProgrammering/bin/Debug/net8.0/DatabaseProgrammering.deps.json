@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v8.0": {
       "DatabaseProgrammering/1.0.0": {
         "dependencies": {
+          "Microsoft.CodeAnalysis.Analyzers": "3.11.0",
           "Microsoft.EntityFrameworkCore.Design": "8.0.10",
           "Microsoft.EntityFrameworkCore.Sqlite": "8.0.10",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.10"
@@ -32,10 +33,10 @@
           }
         }
       },
-      "Microsoft.CodeAnalysis.Analyzers/3.3.3": {},
+      "Microsoft.CodeAnalysis.Analyzers/3.11.0": {},
       "Microsoft.CodeAnalysis.Common/4.5.0": {
         "dependencies": {
-          "Microsoft.CodeAnalysis.Analyzers": "3.3.3",
+          "Microsoft.CodeAnalysis.Analyzers": "3.11.0",
           "System.Collections.Immutable": "6.0.0",
           "System.Reflection.Metadata": "6.0.1",
           "System.Runtime.CompilerServices.Unsafe": "6.0.0",
@@ -711,12 +712,12 @@
       "path": "microsoft.bcl.asyncinterfaces/6.0.0",
       "hashPath": "microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512"
     },
-    "Microsoft.CodeAnalysis.Analyzers/3.3.3": {
+    "Microsoft.CodeAnalysis.Analyzers/3.11.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-j/rOZtLMVJjrfLRlAMckJLPW/1rze9MT1yfWqSIbUPGRu1m1P0fuo9PmqapwsmePfGB5PJrudQLvmUOAMF0DqQ==",
-      "path": "microsoft.codeanalysis.analyzers/3.3.3",
-      "hashPath": "microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512"
+      "sha512": "sha512-v/EW3UE8/lbEYHoC2Qq7AR/DnmvpgdtAMndfQNmpuIMx/Mto8L5JnuCfdBYtgvalQOtfNCnxFejxuRrryvUTsg==",
+      "path": "microsoft.codeanalysis.analyzers/3.11.0",
+      "hashPath": "microsoft.codeanalysis.analyzers.3.11.0.nupkg.sha512"
     },
     "Microsoft.CodeAnalysis.Common/4.5.0": {
       "type": "package",
