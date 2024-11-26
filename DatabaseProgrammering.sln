@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseProgrammering", "Da
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoApi", "TodoApi\TodoApi.csproj", "{B83560DD-C200-4C47-91B6-2A9B3E0166B1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcMovie", "MvcMovie\MvcMovie.csproj", "{8DD31B0B-C225-4180-8A0F-4D9FFB82DC64}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{B83560DD-C200-4C47-91B6-2A9B3E0166B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B83560DD-C200-4C47-91B6-2A9B3E0166B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B83560DD-C200-4C47-91B6-2A9B3E0166B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DD31B0B-C225-4180-8A0F-4D9FFB82DC64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DD31B0B-C225-4180-8A0F-4D9FFB82DC64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DD31B0B-C225-4180-8A0F-4D9FFB82DC64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DD31B0B-C225-4180-8A0F-4D9FFB82DC64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
