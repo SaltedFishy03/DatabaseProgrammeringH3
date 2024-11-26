@@ -120,3 +120,4 @@ C:\Users\mah\RiderProjects\DatabaseProgrammering\DatabaseProgrammering\obj\Debug
 C:\Users\mah\RiderProjects\DatabaseProgrammering\DatabaseProgrammering\obj\Debug\net8.0\DatabaseProgrammering.pdb
 C:\Users\mah\RiderProjects\DatabaseProgrammering\DatabaseProgrammering\obj\Debug\net8.0\DatabaseProgrammering.genruntimeconfig.cache
 C:\Users\mah\RiderProjects\DatabaseProgrammering\DatabaseProgrammering\obj\Debug\net8.0\ref\DatabaseProgrammering.dll
+C:\Users\mah\RiderProjects\DatabaseProgrammering\DatabaseProgrammering\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
